@@ -1,0 +1,8 @@
+POST - /createMovie - 200 
+POST - /createMovie - 200 
+POST - /createMovie - 200 
+POST - /Movie - 200 
+POST - /Movie - 200 
+GET - /Movie - 200 
+PATCH - /Movie/1 - 200 
+DELETE - /Movie/1 - 200 
